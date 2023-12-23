@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,100;9..40,200;9..40,300;9..40,400;9..40,500;9..40,600;9..40,700;9..40,800;9..40,900;9..40,1000&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.btn {
+    color: var(--Colors-White, #FFF);
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    padding: 7px 18px;
+    border-radius: 100px;
+    background: var(--Action-Primary, #25DAC5);
+    border: none;
+
+}
+
+.heading {
+    color: var(--Colors-White, #FFF);
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 70px;
+    letter-spacing: -1px;
+    width: 957px;
+    padding-left: 270px;
+    padding-top: 76px;
+}
+
+.svg {
+    color: var(--Colors-White, #FFF);
+    text-align: center;
+    font-family: 'FontAwesome', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 100px;
+    background: var(--Socials-Youtube, #EA3223);
+    padding-left: 29px;
+    padding-right: 25px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+
+}
+
+.padding-svg {
+    padding-left: 572px;
+    padding-top: 95px;
+
+}
+
+.padding-buttons {
+    padding-top: 70px;
+}
+
+.paragraph {
+    color: var(--Colors-White, #FFF);
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    width: 834px;
+    padding-left: 350px;
+    padding-bottom: 121px;
+    padding-top: 72px;
+
+}
+
+.products {
+    color: var(--Colors-White, #FFF);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+
+}
+
+.startup {
+    color: var(--Colors-White, #FFF);
+    text-align: center;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -0.293px;
+    padding-left: 129px;
+    padding-right: 150px;
+}
+
+.elements {
+    color: var(--Colors-White, #FFF);
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+}
+
+.bg-image {
+    background-image: url("../images/abird.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.padding-rl {
+    padding-right: 31px;
+    padding-left: 150px;
+}
+
+.padding-right {
+    padding-right: 35px;
+}
+
+
+
